@@ -1,0 +1,36 @@
+.display-4{
+    color: rgb(0, 0, 0);
+    text-underline-offset: 1;
+}
+
+.my-0{
+    color: rgb(0, 0, 0);
+}
+body {
+    background-image: url('background2.webp');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.cardbody55{
+    height: 450px;
+}
+.cardbody55{
+    height: 450px;
+}
+.cardbody55{
+    height: 450px;
+}
+.card-header {
+    background-color: rgb(255, 255, 255);
+}
+#opr{
+    margin-bottom: 50px;
+}
+#badabad{
+    margin-bottom: 20px;
+}
+.collapse{
+    padding-left: 1000px;
+}
